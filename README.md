@@ -1,6 +1,6 @@
-# 2018年计划
-## AI
+# 2018-TODO
 ## Android
+## AI
 ## Go
 ## Web
 ## Algorithm

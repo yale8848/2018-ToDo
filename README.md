@@ -13,6 +13,7 @@
 ## BlockChain
 
 - [理解智能合约](https://dbarobin.com/2018/01/24/blockchain-smart-contract/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [IPFS——它能取代HTTP协议？](https://www.jianshu.com/p/ddccae89a49a)
 
 ## Web
 ## Algorithm

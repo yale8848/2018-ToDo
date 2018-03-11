@@ -3,6 +3,8 @@
 ## Java
 - Vertx
   [chinese docs](https://vertxchina.github.io/vertx-translation-chinese/)
+- Summer
+  [Vertx router with JAX-RS](https://github.com/yale8848/Summer)
   
 ## Android
 ## AI

@@ -13,12 +13,12 @@
 - [Android 热修复(全网最简单的热修复讲解)](https://www.jianshu.com/p/d17519d4952e)
 ## AI
 ## Go
-- [gorpool-Simple goroutine pool](https://github.com/yale8848/gorpool)
-- [gosocket-Simple Golang server socket long connection skeleton](https://github.com/yale8848/gosocket)
+- [gorpool - Simple goroutine pool](https://github.com/yale8848/gorpool)
+- [gosocket - Simple Golang server socket long connection skeleton](https://github.com/yale8848/gosocket)
 - [docker(moby)](https://github.com/moby/moby)
-- [deploy-use ssh and sftp deploy files and execute commands](https://github.com/yale8848/deploy)
-- [replace-Simple replace text tool](https://github.com/yale8848/replace)
-- [Tony Bai gopher](https://tonybai.com)
+- [deploy - use ssh and sftp deploy files and execute commands](https://github.com/yale8848/deploy)
+- [replace - Simple replace text tool](https://github.com/yale8848/replace)
+- [A Gopher - Tony Bai ](https://tonybai.com)
 ## BlockChain
 
 - [理解智能合约](https://dbarobin.com/2018/01/24/blockchain-smart-contract/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -27,7 +27,7 @@
 - [深入浅出区块链](https://learnblockchain.cn)
 
 ## Web
-- [flex.css-mobile flex pollyfill](https://github.com/lzxb/flex.css)
+- [flex.css - mobile flex pollyfill](https://github.com/lzxb/flex.css)
 
 ## Algorithm
 ## BigData

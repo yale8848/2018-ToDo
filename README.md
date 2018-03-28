@@ -27,7 +27,7 @@
 - [深入浅出区块链](https://learnblockchain.cn)
 
 ## Web
-- [mobile flex pollyfill](https://github.com/lzxb/flex.css)
+- [flex.css-mobile flex pollyfill](https://github.com/lzxb/flex.css)
 
 ## Algorithm
 ## BigData

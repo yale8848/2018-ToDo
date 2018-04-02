@@ -11,6 +11,9 @@
 - [如何对Android WebView 轻量缓存优化？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488181&amp;idx=1&amp;sn=0db95b1ad2972100d5206fedaf4cf085&source=41#wechat_redirect)
 - [2017 Android插件化框架总结](http://www.360doc.com/content/17/0915/16/99071_687431479.shtml)
 - [Android 热修复(全网最简单的热修复讲解)](https://www.jianshu.com/p/d17519d4952e)
+## MicroService
+- [Service Mesh-Next generation microservice](https://servicemesh.gitbooks.io/awesome-servicemesh/mesh/2017/service-mesh-next-generation-of-microservice/)
+- [istio-An open platform to connect, manage, and secure microservices](https://github.com/istio/istio)
 ## AI
 ## Go
 - [gorpool - Simple goroutine pool](https://github.com/yale8848/gorpool)

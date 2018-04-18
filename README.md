@@ -33,7 +33,11 @@
 - [flex.css - mobile flex pollyfill](https://github.com/lzxb/flex.css)
 - [深入理解移动端像素知识与Viewport知识](https://blog.csdn.net/aiolos1111/article/details/51967744)
 - [国内外移动端web适配屏幕方案总结](https://www.cnblogs.com/Sroot/p/5922937.html)
-
+## Chrominum
+- [chromium sourcecode](https://chromium.googlesource.com/chromium/)
+- [chrominu disk-cache](https://www.chromium.org/developers/design-documents/network-stack/disk-cache)
+- [Android chromium simple cache](https://www.chromium.org/developers/design-documents/network-stack/disk-cache/very-simple-backend)
+- [Android chromium simple cache sourcecode](https://chromium.googlesource.com/chromium/src/+/master/net/disk_cache/simple/)
 ## Algorithm
 ## BigData
 ## Architecture

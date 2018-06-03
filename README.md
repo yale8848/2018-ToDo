@@ -41,7 +41,7 @@
 ## Algorithm
 ## BigData
 ## Architecture
-- 微服务基础架构
+- [微服务2.0技术栈选型手册](https://mp.weixin.qq.com/s/OloZhn2pwfIrOQit_8jefA)
   ![](arts/micro-architecture.png)
   
 

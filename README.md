@@ -7,6 +7,9 @@
   [Vertx router with JAX-RS](https://github.com/yale8848/Summer)
   
 - [并发之痛 Thread，Goroutine，Actor](http://jolestar.com/parallel-programming-model-thread-goroutine-actor/)
+
+- Lucene
+  - [Lucene 6.0 实战（2）-各种Field及排序操作](http://codepub.cn/2016/05/20/Lucene-6-0-in-action-2-All-kinds-of-Field-and-sort-operations/)
   
 ## Android
 - [WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)

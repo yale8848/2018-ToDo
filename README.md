@@ -12,6 +12,7 @@
   - [Lucene 6.0 实战（2）-各种Field及排序操作](http://codepub.cn/2016/05/20/Lucene-6-0-in-action-2-All-kinds-of-Field-and-sort-operations/)
 - 分词
   - [NLP+词法系列（一）︱中文分词技术小结、几大分词引擎的介绍与比较](https://blog.csdn.net/sinat_26917383/article/details/52275328)
+  - [52nlp](http://www.52nlp.cn)
   
 ## Android
 - [WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)

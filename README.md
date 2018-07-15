@@ -13,6 +13,7 @@
 - 分词
   - [NLP+词法系列（一）︱中文分词技术小结、几大分词引擎的介绍与比较](https://blog.csdn.net/sinat_26917383/article/details/52275328)
   - [52nlp](http://www.52nlp.cn)
+- [类加载机制](类加载机制)
   
 ## Android
 - [WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)

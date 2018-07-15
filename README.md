@@ -51,5 +51,6 @@
 ## Architecture
 - [微服务2.0技术栈选型手册](https://mp.weixin.qq.com/s/OloZhn2pwfIrOQit_8jefA)
   ![](arts/micro-architecture.png)
+- [23种设计模式](https://www.cnblogs.com/geek6/p/3951677.html)
   
 
